@@ -11,4 +11,4 @@ class TaggingConfig(AppConfig):
     """
     name = 'tagging'
     label = 'tagging'
-    verbose_name = _('Tagging')
+    verbose_name = _('WS: Tagging')
